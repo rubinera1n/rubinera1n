@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 🤔 Years of experiences working with Python/Golang
 - 💬 How to reach me: [Linkedin](https://www.linkedin.com/in/hsiufukuo/)
 - 🌟 Licenses & Certifications
-  - [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/account/accomplishments/certificate/8XT2F6FCZH5X)
+  - [Coursera - Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/account/accomplishments/certificate/8XT2F6FCZH5X)
 
 [![rubinera1n's github stats](https://github-readme-stats.vercel.app/api?username=rubinera1n&theme=cobalt&show_icons=true)](https://github.com/rubinera1n)
