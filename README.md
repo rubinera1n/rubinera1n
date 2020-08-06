@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Lexin](https://www.lexin.com/).
 - 🌱 I’m currently learning [<<Linux内核设计与实现>>](https://book.douban.com/subject/6097773/)
-- 🤔  Years of experiences working with Python/Golang
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hsiufukuo/)
+- ⭐️ Years of experiences working with Python/Golang
+- 💬 How to reach me: [Linkedin](https://www.linkedin.com/in/hsiufukuo/)
 
- [![Github Stats](https://github-readme-stats.vercel.app/api?username=rubinera1n&show_icons=true)](https://github.com/rubinera1n)
+![rubinera1n's github stats](https://github-readme-stats.vercel.app/api?username=rubinera1n&theme=cobalt&show_icons=true)](https://github.com/rubinera1n)
