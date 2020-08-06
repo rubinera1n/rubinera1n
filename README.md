@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [Lexin](https://www.lexin.com/).
-- 🌱 I’m currently learning [<<Linux内核设计与实现>>](https://book.douban.com/subject/6097773/)
+- 🌱 I’m currently learning [程序员的自我修养](https://book.douban.com/subject/3652388/)
 - ⭐️ Years of experiences working with Python/Golang
 - 💬 How to reach me: [Linkedin](https://www.linkedin.com/in/hsiufukuo/)
 
