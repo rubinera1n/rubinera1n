@@ -1,4 +1,4 @@
-### Hi there 👋 [![Hi there](http://www.zpoint.xyz:8080/count/tag.svg?url=github%2Fzpoint)](https://rushter.com/blog/github-profile-markdown/)
+### Hey 👋, I'm [Rubinera1n](http://blog.xiufuguo.com/)!
 
 <!--
 **zpoint/zpoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 🤔  Years of experiences working with Python/Golang
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hsiufukuo/)
 
- [![rubinera1n's github stats](https://github-readme-stats.vercel.app/api?username=rubinera1n&theme=cobalt)](https://github.com/rubinera1n)
+ [![Github Stats](https://github-readme-stats.vercel.app/api?username=rubinera1n&show_icons=true)](https://github.com/rubinera1n)
