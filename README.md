@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 🌟 Licenses & Certifications
   - [Coursera - Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/account/accomplishments/certificate/8XT2F6FCZH5X)
   - [Coursera - Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/account/accomplishments/certificate/7PV3UMZZKPUP)
+  - [Coursera - Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/account/accomplishments/certificate/68XS4Z7X6JQJ)
 
 [![rubinera1n's github stats](https://github-readme-stats.vercel.app/api?username=rubinera1n&theme=cobalt&show_icons=true)](https://github.com/rubinera1n)
 
