@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   - [Coursera - Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/account/accomplishments/certificate/8XT2F6FCZH5X)
   - [Coursera - Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/account/accomplishments/certificate/7PV3UMZZKPUP)
   - [Coursera - Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/account/accomplishments/certificate/68XS4Z7X6JQJ)
+  - [Coursera - Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/account/accomplishments/certificate/3EUM8WTY24Q7)
 
 [![rubinera1n's github stats](https://github-readme-stats.vercel.app/api?username=rubinera1n&theme=cobalt&show_icons=true)](https://github.com/rubinera1n)
 
