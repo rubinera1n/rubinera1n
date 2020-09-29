@@ -14,15 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 🌱 I’m currently working on [go-Internals](https://github.com/zpoint/go-Internals) off the work time
+
+- 🌱 I’m currently learning [程序员的自我修养](https://book.douban.com/subject/3652388/)
+  - [Python Spices](https://python-spices.readthedocs.io/)
 -->
 
 - 🔭 I’m currently working on [Lexin](https://www.lexin.com/).
-- 🌱 I’m currently learning [程序员的自我修养](https://book.douban.com/subject/3652388/)
 - 🤔 Years of experiences working with Python/Golang
 - 💬 How to reach me: [Linkedin](https://www.linkedin.com/in/hsiufukuo/)
 - 📖 Share anything I've learned
   - [Algorithm Spices](https://algorithm-spices.readthedocs.io/)
-  - [Python Spices](https://python-spices.readthedocs.io/)
 - 🌟 Licenses & Certifications
   - [Coursera - Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/account/accomplishments/certificate/8XT2F6FCZH5X)
   - [Coursera - Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/account/accomplishments/certificate/7PV3UMZZKPUP)
