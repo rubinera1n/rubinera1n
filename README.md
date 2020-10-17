@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [Lexin](https://www.lexin.com/).
+- 🌱 I’m currently learning [System Design](https://www.educative.io/courses/grokking-the-system-design-interview)
 - 🤔 Years of experiences working with Python/Golang
 - 💬 How to reach me: [Linkedin](https://www.linkedin.com/in/hsiufukuo/)
 - 📖 Share anything I've learned
