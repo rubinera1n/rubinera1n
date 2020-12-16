@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![rubinera1n's github stats](https://github-readme-stats.vercel.app/api?username=rubinera1n&theme=cobalt&show_icons=true)](https://github.com/rubinera1n)
 
 <p align="center">
-  <strong><a href="http://blog.xiufuguo.com/">Blog</a></strong> |
+  <strong><a href="https://medium.com/xiufuguo/">Medium</a></strong> |
   <strong><a href="https://www.linkedin.com/in/hsiufukuo/">Linkedin</a></strong> |
   <strong><a href="https://www.instagram.com/rubinera1n/">Instagram</a></strong>
 </p>
