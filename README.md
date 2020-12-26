@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Lexin](https://www.lexin.com/)
 - 🌱 I’m currently learning [System Design](https://www.educative.io/courses/grokking-the-system-design-interview)
-- 🤔 Years of experiences working with Python/Golang
+- 🤔 Years of experiences working with Golang/Python
 - 💬 How to reach me: [Linkedin](https://www.linkedin.com/in/hsiufukuo/)
 - 📖 Share anything I've learned
   - [Algorithm Spices](https://algorithm-spices.readthedocs.io/)
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![rubinera1n's github stats](https://github-readme-stats.vercel.app/api?username=rubinera1n&theme=cobalt&show_icons=true)](https://github.com/rubinera1n)
 
 <p align="center">
-  <strong><a href="https://medium.com/xiufuguo/">Medium</a></strong> |
+  <!--<strong><a href="https://medium.com/xiufuguo/">Medium</a></strong> |-->
   <strong><a href="https://www.linkedin.com/in/hsiufukuo/">Linkedin</a></strong> |
   <strong><a href="https://www.instagram.com/rubinera1n/">Instagram</a></strong>
 </p>
