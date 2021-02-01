@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning [程序员的自我修养](https://book.douban.com/subject/3652388/)
   - [Python Spices](https://python-spices.readthedocs.io/)
+  - 🌱 I’m currently learning [System Design](https://www.educative.io/courses/grokking-the-system-design-interview)
 -->
 
 - 🔭 I’m currently working on [Lexin](https://www.lexin.com/)
-- 🌱 I’m currently learning [System Design](https://www.educative.io/courses/grokking-the-system-design-interview)
 - 🤔 Years of experiences working with Python/Golang
 - 💬 How to reach me: [Linkedin](https://www.linkedin.com/in/hsiufukuo/)
 - 📖 Share anything I've learned
