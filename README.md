@@ -1,4 +1,4 @@
-### Hey 👋, I'm HsiuFu Kuo.
+### Hey 👋, I'm XiuFu Guo.
 
 <!--
 **zpoint/zpoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
